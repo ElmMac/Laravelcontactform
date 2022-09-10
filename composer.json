@@ -1,0 +1,19 @@
+{
+    "name": "elmmac/laravelcontactform",
+    "description": " ",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Elmmac\\Laravelcontactform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Misael Cruise Mutege",
+            "email": "misael@elmmac.co.za"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
