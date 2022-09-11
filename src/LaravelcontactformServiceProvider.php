@@ -13,6 +13,7 @@ class LaravelcontactformServiceProvider extends ServiceProvider
 
         $this->publishes([
             __DIR__.'/config/contact.php' => config_path('contact.php'),
+            __DIR__.'/views' => resource_path('views/vendor/Laravelcontactform'),
         ]); // You should publish by: php artisan vendor:publish
     }
 

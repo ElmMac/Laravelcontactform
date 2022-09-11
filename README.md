@@ -1,3 +1,7 @@
+[![Issues](https://img.shields.io/badge/Code-Issues-red)](https://img.shields.io/github/issues/ElmMac/Laravelcontactform)
+[![Issues](https://img.shields.io/badge/Code-Stars-green)](	https://img.shields.io/github/stars/ElmMac/Laravelcontactform)
+[![Licenses](https://img.shields.io/badge/Code-License-blue)](https://img.shields.io/github/license/ElmMac/Laravelcontactform)
+
 # Laravelcontactform
 # ElmMac Laravel Contact Form package for Laravel apps / Projects 
 
