@@ -8,6 +8,16 @@
             "Elmmac\\Laravelcontactform\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Elmmac\\Laravelcontactform\\LaravelcontactServiceProvider"
+            ],
+            "aliases": {
+                "Elmmac": "Elmmac\\Laravelcontactform\\Facade"
+            }
+        }
+    },
     "authors": [
         {
             "name": "Misael Cruise Mutege",
